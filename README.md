@@ -1,4 +1,7 @@
 # Obsidian REPL plugin
+* [@readwithai](https://x.com/readwithai), [blog post](https://medium.com/@readwithai/slowly-turning-obsidian-into-emacs-adding-a-repl-37b280398739)
+
+
 This plugin adds an emacs-like read evaluate print loop (REPL) to obsidian.
 This lets you execute javascript in a document *and* importantly interact with editor objects as though you were writing a plugin.
 This can be useful when developing plugins, or for "light-weight" scripting without having to develop a plugin.
