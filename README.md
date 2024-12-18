@@ -1,4 +1,4 @@
-# Obsidian REPL plugin
+# Plugin repl - A read evaluate print loop for Obsidian
 This plugin adds an emacs-like read evaluate print loop (REPL) to Obsidian.
 This lets you execute javascript directly in a document *and*, importantly, interact with Obsidian's
 plugin api makes Obsidian do things (like move the cursor, insert text, open files, etc).
