@@ -86,10 +86,14 @@ I experimented with the [obsidian modules](https://github.com/polyipseity/obsidi
 The approach I have used to getting access to modules when hacking on a new plugin is to create a new plugin and half that plugin set `self.MODULE = MODULE` on load. You can then access this self open from the repl.
 
 
+
+
 # About me
+*If you are interesting in this you might be interested in my [obsidian cookbook](https://medium.com/@readwithai/youtube-shorts-introduction-to-obsidian-56bd01506fa0).*
+
 I make productivity tools and AI tools related to reading and research.
 If that sounds interesting you can follow me on <a href="https://x.com/readwithai">twitter</a> or <a href="https://bsky.app/profile/readwithai.bsky.social">bluesky</a>.
 
 I write about these topics on <a href="https://readwithai.substack.com/readwithai">substack</a>.
 
-If you find *this* piece of software useful. Maybe give me money (like $2 dollars?) on my <a href="ko-fi.com/readwithai">kofi</a>.
+If you find *this* piece of software useful. Maybe give me money (like $10 dollars?) on my <a href="ko-fi.com/readwithai">kofi</a>.
